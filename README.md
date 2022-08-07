@@ -2,9 +2,9 @@
 Week 3 Peer Review Assignment
 
 
-Input:
+## Input:
    p, principal amount
    t, time period in years
    r, annual rate of interest
-Output
+## Output
    simple interest = p*t*r
